@@ -1,2 +1,2 @@
-# lks-aws-amplify
+# lks-front-end
 for lks-aws-amplify
